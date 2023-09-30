@@ -1,0 +1,8 @@
+name: tarea_future_MVP
+description: tarea_future con arquitectura Modelo-Vista-Presentador
+version: 1.0.0
+
+environment:
+  sdk:  ^3.0.0
+dependencies:
+  http: ^0.13.6
