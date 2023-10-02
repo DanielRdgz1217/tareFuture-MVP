@@ -4,7 +4,6 @@ import '../presenters/post_presenter.dart';
 import './helpers/post_helper.dart';
 
 void main() async {
-  const host = Config.host;
   final url = '$host/posts/1';
   final postPresenter = PostPresenter();
 

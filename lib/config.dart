@@ -1,3 +1,1 @@
-class Config {
-  static const host = "https://jsonplaceholder.typicode.com";
-}
+final host = "https://jsonplaceholder.typicode.com";
